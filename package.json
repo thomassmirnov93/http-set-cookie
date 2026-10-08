@@ -1,0 +1,17 @@
+{
+  "name": "http-set-cookie",
+  "version": "0.1.0",
+  "description": "Parses a Set-Cookie header into name, value, domain, path, expires, max-age, and flag fields.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {}
+}
